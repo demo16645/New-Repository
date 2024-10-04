@@ -1,3 +1,7 @@
 Hello, World!
 
-This is a sample text file to demonstrate adding files to a GitHub repository using GitHub Desktop. This file can be used to practice commits, pushes, and pull requests in a collaborative Git workflow.
+This is a sample text file to demonstrate adding files to a GitHub repository using GitHub Desktop.
+This file can be used to practice commits, pushes, and pull requests in a collaborative Git workflow.
+
+Remember to regularly update your local repository with 'Fetch origin' to keep track of changes made by others.
+Always ensure your contributions are well-documented to assist team members in understanding your changes.
