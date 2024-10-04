@@ -1,0 +1,3 @@
+Hello, World!
+
+This is a sample text file to demonstrate adding files to a GitHub repository using GitHub Desktop. This file can be used to practice commits, pushes, and pull requests in a collaborative Git workflow.
