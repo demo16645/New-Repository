@@ -1,0 +1,24 @@
+Welcome to GitHub!
+
+This text file serves as a basic guide to understanding and using version control with GitHub. Below, you will find simple instructions on how to perform common tasks in GitHub Desktop.
+
+1. **Cloning a Repository**
+   - To get started, clone an existing repository from GitHub to your local machine. This creates a local copy of the project for you to work on.
+
+2. **Making Changes**
+   - After cloning, you can start making changes or additions to the project files. Open any file in a text editor, make your modifications, and save.
+
+3. **Committing Changes**
+   - Once you make changes, open GitHub Desktop. Your changes will appear as 'uncommitted changes'. 
+   - Add a commit message that describes your updates and commit the changes to your branch.
+
+4. **Pushing Changes**
+   - After committing your changes locally, push them to GitHub to make them available to other project contributors.
+   - Click the 'Push origin' to upload your local commits to GitHub.
+
+5. **Pull Requests**
+   - When you are ready to merge your changes into the main project, create a pull request.
+   - This allows other contributors to review your changes before they are integrated into the main branch.
+
+6. **Syncing Changes**
+   - Regularly pull changes from GitHub to keep your local project up-to-date. This helps prevent conflicts and ensures collaboration goes smoothly.
